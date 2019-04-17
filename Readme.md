@@ -1,3 +1,5 @@
+Convert 1m20s to 80 or 80000.
+
 This is based on [brian3kb/string-to-milliseconds](https://github.com/brian3kb/string-to-milliseconds).
 
 Usage:
