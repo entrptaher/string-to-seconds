@@ -1,6 +1,9 @@
 {
   "name": "string-to-seconds",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/entrptaher/string-to-seconds"
+  }
 }
